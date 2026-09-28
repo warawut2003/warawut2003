@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="mailto:warawutninrat010@gmail.com"><img src="https://img.shields.io/badge/Email-warawutninrat010%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat" alt="Open to work"/>
   <img src="https://img.shields.io/badge/Location-Thailand-blue?style=flat" alt="Thailand"/>
 </p>
 
